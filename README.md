@@ -1,6 +1,6 @@
 # Movie Recommender System 🎬🍿
 
-Welcome to my university data analytics project showcasing a **Movie Recommender System** built on the popular MovieLens dataset! This repository demonstrates both **User-Based Collaborative Filtering** and **Content-Based Filtering** approaches, complete with exploratory data analysis, modeling pipeline, and evaluation.
+Welcome to my university data analytics project, graded 5.0 (top grade), showcasing a **Movie Recommender System** built on the popular MovieLens dataset! This repository demonstrates both **User-Based Collaborative Filtering** and **Content-Based Filtering** approaches, complete with exploratory data analysis, modeling pipeline, and evaluation.
 
 ---
 
